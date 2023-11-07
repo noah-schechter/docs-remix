@@ -1,5 +1,6 @@
 # Hugo configuration file
-title: My Site
+title: Atlos Help Center
+logo: 
 
 # import hextra as module
 module:
@@ -45,7 +46,7 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
 
   footer:
     displayCopyright: false

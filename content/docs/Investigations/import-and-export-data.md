@@ -151,6 +151,6 @@ To export all of a project’s data:
 
 To export the results of any search, click the ![Paperclip](/images/paperclip.png) icon in the search bar.
 
-{% callout %}
+{{< callout type="info" >}}
 To programatically extract data from your project, use our project-scoped [API](/docs/api).
-{% /callout %}
+{{< /callout >}}

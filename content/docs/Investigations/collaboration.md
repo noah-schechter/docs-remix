@@ -62,7 +62,7 @@ Viewers can only view and comment on incidents; they cannot edit project data. V
 - Bulk export data
 
 
-{% callout %}
+{{< callout type="info">}}
 Data on Atlos is often sensitive. We recommend following a **minimum access policy** to protect your investigation. A minimum access policy restricts each researcher to the lowest level of access they need to perform their work. 
 On Atlos, a minimum access policy means that, for example, an investigator joining a project only so that they can view data should be granted a Viewer role, not a role that gives them edit access.
-{% /callout %}
+{{< /callout >}}

@@ -1,9 +1,9 @@
 ---
-title: My Site
+title: Meet Atlos
 toc: false
 ---
 
-This is the landing page.
+Welcome to the Atlos Help Center. 
 
 ## Explore
 

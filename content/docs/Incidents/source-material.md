@@ -33,9 +33,9 @@ Atlos’ archival system will attempt to archive the following artifacts:
 - **Visual media—** Photos and videos embedded in the webpage (a video from a Tweet, for example). 
 - **Internet Archive submission—** Atlos will also submit the provided link to the Internet Archive. 
   
-{% callout %}
+{{< callout type="info">}}
 Note that Atlos’ automatic archival system is best-effort; Atlos will not always archive every piece of media on a webpage. It is also subject to the whims of social media platforms’ changing software and policies. We think Atlos’ automatic archival tool is a convenient system for quickly preserving sources during a journalistic investigation, but it’s not suitable for forensic or legal evidentiary purposes.
-{% /callout %}
+{{< /callout >}}
 
 ## Deduplication
 Deduplication, or the process of finding and eliminating duplicates, can be extremely time-consuming. To accelerate the process, Atlos deduplicates source material in two phases:
@@ -97,9 +97,8 @@ If you have removed source material in error, you can easily restore the materia
 
 If you already have a piece of source material's aritifacts window open, just click **Undo Removal** on the left side of the window.
 
-{% callout %}
-**Why can't I delete source material?**
-
+{{< callout type="info">}}
+**Why can't I delete source material?**   
 To protect the integrity of investigators' data, Atlos makes it impossible to actually remove content from the platform. 
 If you think source material in your project is so sensitive that it must be removed from Atlos’ database and that other moderation tools such as Removing the material are insufficient, please contact us at [contact@atlos.org](mailto:contact@atlos.org).
-{% /callout %}
+{{< /callout >}}

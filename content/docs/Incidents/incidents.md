@@ -73,9 +73,9 @@ To delete an incident, project owners and managers can:
 
 *The **Delete** incident button.* 
 
-{% callout type="warning" %}
+{{< callout type="warning" >}}
 If you think an incident in your project contains data that is so sensitive that it must be removed from Atlos’ database, and that other moderation tools, like marking an incident or comment as Hidden or a piece of media as Removed, are not sufficient, please contact us at [contact@atlos.org](mailto:contact@atlos.org). 
-{% /callout %}
+{{< /callout >}}
 
 ### How to restore an incident
 Deleted incidents can be restored. To restore an incident, project owners and managers can:
