@@ -67,20 +67,6 @@ On this page, we visualize the format Atlos requires for bulk import in its spre
 **Order—** The order of these column headers is not relevant; Atlos will not treat the following tables differently:
 
 {% table %}
-* status
-* description
-* sensitive
----
-* Unclaimed 
-* Explosion along river
-* Not Sensitive
----
-* In Progress
-* Explosion along road
-* "Deleted by Source,Deceptive or Misleading"
-{% /table %}
-
-{% table %}
 * sensitive
 * status 
 * description 
