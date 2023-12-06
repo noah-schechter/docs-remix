@@ -1,6 +1,9 @@
 ---
 title: API
 description: Integrate Atlos with third-party services.
+type: docs
+sidebar:
+  open: true
 ---
 
 
@@ -17,12 +20,12 @@ Please note that the API is in beta and not all operations are necessarily suppo
 4. Assign the token a name, write a description of what the token is used for, and select permissions for the token.
 5. Click the **Create Token** button.
 
-API tokens are sensitive—they allow read and write access to your project. Keep them secret!
+API tokens are sensitive—they allow read and write access to your project.
 
 To authenticate against the API, include an `Authorization` header and set its value to `Bearer <your token>`. 
 
 ## API Reference  
-The Atlos API supports `GET` and `POST` endpoints. All `GET` endpoints return 30 results at a time. By default, every API token will have an access to `READ` endpoint. 
+The Atlos API supports `GET` and `POST` endpoints. All `GET` endpoints return 30 results at a time. By default, every API token will have access to a `READ` endpoint. 
 
 You can paginate using the `cursor` query parameter, whose value is provided by the `next` and `previous` keys in the response. Results are available under the `results` key.
 

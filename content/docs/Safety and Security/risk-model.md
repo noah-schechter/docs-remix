@@ -1,6 +1,9 @@
 ---
 title: Security and risk model
 description: A guide to Atlos' approach to platform security. 
+type: docs
+sidebar:
+  open: true
 ---
 
 ## Guiding principles
@@ -8,12 +11,12 @@ Atlos is a platform for open-source visual investigations. And while Atlos often
 
 - **No online platform is 100% secure, and Atlos isn’t an exception.** If the exposure of your data could lead to significant harm, don’t use Atlos.
     
-    We recommend against using Atlos for closed source investigations (i.e., investigations where the source material isn’t publicly available online). TODO - verify with Miles that it's ok this isn't italicized and replicate below
+    *We recommend against using Atlos for closed source investigations (i.e., investigations where the source material isn’t publicly available online).*
 
 
 - **If legally required, we will have to disclose your data.** If there is a legal requirement for us to share data with a government or law enforcement agency with appropriate jurisdiction, we will have no choice but to comply.
 
-    If you are concerned about protecting your identity from law enforcement, protect your identity from us (e.g., employ a VPN and pseudonym when using Atlos).
+    *If you are concerned about protecting your identity from law enforcement, protect your identity from us (e.g., employ a VPN and pseudonym when using Atlos).*
 
 
 - **Our automatic archival isn’t perfect.** When you add a link to an incident’s source material, Atlos will attempt to archive the page—and any media on that page—automatically. While generally robust, our archival system has limitations, and it’s not meant for evidentiary or forensic purposes. For example, our archival system can’t archive pages that require authentication (e.g., private Telegram links); it may miss media on certain pages; and it might sometimes break.

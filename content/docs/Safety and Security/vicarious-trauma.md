@@ -1,10 +1,13 @@
 ---
 title: Vicarious trauma
 description: Atlos take researcher's mental health seriously. 
+type: docs
+sidebar:
+  open: true
 ---
 
 
-Graphic violence puts researchers at risk of vicarious trauma. While Atlos takes several steps to protect researchers, no technical solution is comprehensive. If you’re struggling with your mental health, seek out professional help and consider taking a break from open source research.
+Viewing media depicting graphic violence puts researchers at risk of vicarious trauma. While Atlos takes several steps to protect researchers, no technical solution is comprehensive. If you’re struggling with your mental health, seek out professional help and consider taking a break from open source research.
 
 ## What you can do
 We recommend reading ["Open Source Investigations: How to Prevent, Address and Identify Vicarious Trauma"](https://gijn.org/2019/02/05/open-source-investigations-how-to-prevent-address-and-identify-vicarious-trauma/) by Hannah Ellis and ["Handling Traumatic Imagery: Developing a Standard Operating Procedure"](https://dartcenter.org/resources/handling-traumatic-imagery-developing-standard-operating-procedure) by Gavin Rees to familiarize yourself with tactics for preventing and coping with vicarious trauma. 

@@ -1,6 +1,7 @@
 ---
 title: Source material
 description: Source material is the evidence depicting an incident. 
+weight: 3 
 ---
 
 Source material is the evidence depicting an incident. Each incident can have zero, one, or multiple pieces of source material. 

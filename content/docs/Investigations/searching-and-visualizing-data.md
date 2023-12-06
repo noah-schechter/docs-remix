@@ -1,5 +1,5 @@
 ---
-title: Searching and visualizing data
+title: Search and visualize data
 description: Atlos offers many options to slice and dice your data. 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Importing and exporting data
+title: Import and export data
 description: Data on Atlos is easily portable.
 ---
 

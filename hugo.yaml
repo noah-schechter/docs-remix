@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: Atlos Help Center
+title: About Atlos
 logo: 
 
 # import hextra as module
@@ -19,29 +19,17 @@ markup:
 
 menu:
   main:
-    - name: Docs
+    - name: Help Center
       pageRef: /docs
       weight: 1
-    - name: About
-      pageRef: /about
-      weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
       weight: 3
-    - name: Search
+    - name: Blog
+      url: /blog
       weight: 4
+    - name: Search
+      weight: 5
       params:
         type: search
-    - name: GitHub
-      weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
-      params:
-        icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
 
 params:
   navbar:

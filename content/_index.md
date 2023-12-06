@@ -1,17 +1,8 @@
 ---
-title: Meet Atlos
+title: Welcome to the About Atlos, the guide to the Atlos platform.
 toc: false
 ---
 
-Welcome to the Atlos Help Center. 
+![img](/images/map.jpg)
 
-## Explore
 
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
