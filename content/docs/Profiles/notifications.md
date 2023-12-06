@@ -30,7 +30,7 @@ Incidents that you’ve unsubscribed to on this page will become transparent; on
 To view your notifications, navigate to the **Notifications** page. 
 
 Here’s what you need to know about managing notifications:
-- **Mark notifications as read—** To mark a notification as read, click [TODO: the blue dot on the left side of the notification] or click [TODO: the blue arrow on the right side of the notification].
-- **Mark notifications as unread—** To mark a notification as unread, click [TODO: the circular arrow icon on the left side of the notification]. 
+- **Mark notifications as read—** To mark a notification as read, click the blue dot on the left side of the notification or click or the blue arrow on the right side of the notification.
+- **Mark notifications as unread—** To mark a notification as unread, click the circular arrow icon on the left side of the notification. 
 - **Mark all notifications as read—** To mark all notifications as read, scroll down to the bottom of the **Notifications** page and click **Mark All Read**.
 
