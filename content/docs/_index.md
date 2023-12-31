@@ -4,7 +4,7 @@ description: An introduction to the Atlos Help Center.
 cascade: 
     type: docs
 ---
-![The Atlos map.](home.png)
+![The Atlos map.](map.png)
 
 {{< cards >}} 
 {{< card link="get-started" title="Get started" icon="bolt" >}} 
