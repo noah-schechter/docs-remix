@@ -4,6 +4,7 @@ description: Integrate Atlos with third-party services.
 type: docs
 sidebar:
   open: true
+weight: 1 
 ---
 
 
