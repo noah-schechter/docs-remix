@@ -3,6 +3,9 @@ title: Account
 description: A guide to the account page. 
 ---
 
+![An investigator's profile page.](profile.png)
+<p style="text-align: center; margin: 0px; color: grey; font-size:12px;"><i>An investigator's profile page.</i></p>
+
 ## Profile 
 Your profile is visible to all Atlos users. It includes:
 - Your username
