@@ -46,17 +46,15 @@ To create an incident:
    
 *This information can be edited after the incident is created.
 
-
-## Deleting an incident 
+## How to delete an incident
 To protect data integrity, Atlos makes removing content from the platform impossible. Instead, deleting an incident moves the incident from the main catalog to the Deleted page of its project. Deleted incidents do not appear in search results or exports but will remain visible by project owners and managers on the Deleted page of each project. 
 
-### How to delete an incident
 To delete an incident, project owners and managers can: 
 1. On the top-right corner of the incident page, click the three vertical dots.
 2. Click **Delete**.
 
 
-### How to restore an incident
+## How to restore an incident
 Deleted incidents can be restored. To restore an incident, project owners and managers can:
 1. On the top-right corner of the deleted incident's page, click the three vertical dots.
 2. Click **Restore**.
