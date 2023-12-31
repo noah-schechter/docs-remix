@@ -1,6 +1,6 @@
 ---
 title: Help Center
-description: An introduction to the Atlos Help Center. 
+description: A guide to getting just about anything done on Atlos, the collaborative workspace for visual verification.
 cascade: 
     type: docs
 ---
