@@ -1,5 +1,5 @@
 ---
-title: Collaboration
+title: Collaborate
 description: A guide to collaborating with other investigators on Atlos. 
 ---
 
