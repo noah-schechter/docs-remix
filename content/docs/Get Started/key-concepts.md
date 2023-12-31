@@ -13,7 +13,7 @@ It's important to understand several core concepts before getting started:
 - **Projects are the unit of investigations.** To begin an investigation, create a [project](/investigations/projects) and [share](/investigations/collaboration) it with your team. 
 
 ## Collaborating
-All data on Atlos is private by default. To collaborate, first share your investigation by adding collaborators usernames on the Access page. 
+All data on Atlos is private by default. To collaborate, first share your investigation by sending a project invite link to your team.
 
 ## Importing investigations
 If you'd like to move an investigation from a spreadsheet on Atlos, create a new project, navigate to its Manage page, and [bulk import](/investigations/import-and-export-data#data-import) a CSV. 
