@@ -6,6 +6,8 @@ description: Atlos offers many options to slice and dice your data.
 Atlos provides many options to slice and dice your data—you can view your catalog on a map, in cards, or in a table. It’s also easy to sort, search, and filter incidents. Navigate to the Incidents page to view your catalog. 
 
 ![A project's Incidents page.](searchdata.png)
+<p style="text-align: center; margin: 0px; color: grey; font-size:12px;"><i>The table view for a project.
+</i></p>
 
 ## Sorting data
 There are five ways to sort incidents on Atlos. The platform remembers your choice of sorting the next time you navigate to the Incidents page. 

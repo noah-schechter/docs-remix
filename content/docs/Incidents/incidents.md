@@ -4,7 +4,8 @@ description: Incidents are the core unit of content on Atlos.
 weight: 1
 ---
 
-![An incident page.](incident.png)
+![An incident page.](index.png)
+<p style="text-align: center; margin: 0px; color: grey; font-size:12px;"><i>A incident page on Atlos.</i></p>
 
 ## Incidents are the atoms of Atlos 
 Incidents are the core unit of content on Atlos. One incident generally corresponds to one event. As you define your data model, consider several factors:

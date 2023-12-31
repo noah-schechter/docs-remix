@@ -5,6 +5,7 @@ weight: 2
 ---
 
 ![The attribute pane of an incident.](attributes.png)
+<p style="text-align: center; margin: 0px; color: grey; font-size:12px;"><i>The attribute pane of an incident.</i></p>
 
 ## Attributes describe incidents
 Attributes are structured data that describe incidents. Attributes make data easily searchable and provide structure for large-scale tagging or data coding projects. Each attribute corresponds to a single column in a spreadsheet-style investigation. 

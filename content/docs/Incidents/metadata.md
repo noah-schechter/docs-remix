@@ -5,6 +5,8 @@ weight: 4
 ---
 
 ![The metadata pane.](metadata1.png?width=200px)
+<p style="text-align: center; margin: 0px; color: grey; font-size:12px;"><i>The metadata pane of an incident.</i></p>
+
 
 Investigators use metadata to coordinate workflow on Atlos. There are five components to metadata:
 

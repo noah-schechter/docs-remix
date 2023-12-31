@@ -6,6 +6,7 @@ description: A guide to collaborating with other investigators on Atlos.
 Open source investigations thrive in large investigative communities. We think Atlos shines as a home for this type of large-scale collaboration. 
 
 ![A project's access page.](collaboration.png)
+<p style="text-align: center; margin: 0px; color: grey; font-size:12px;"><i>A project's access page.</i></p>
 
 ## Add a member
 To add a member to a project: 

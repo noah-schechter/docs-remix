@@ -9,6 +9,7 @@ Projects are the unit of investigations on Atlos. They’re also the level at wh
 - **Customize attributes—** Investigators can easily change a project’s attributes to better suit their research. Attributes are customizable only at the project level; all incidents in a project have the same data model.
 
 ![A project's manage page.](projects.png)
+<p style="text-align: center; margin: 0px; color: grey; font-size:12px;"><i>A project's manage page.</i></p>
 
 ## Create a new project 
 1. Navigate to the Projects tab.

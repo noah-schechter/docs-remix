@@ -5,7 +5,8 @@ type: docs
 sidebar:
   open: true
 ---
-
+![A graphic violence warning on Atlos.](graphic.png)
+<p style="text-align: center; margin: 0px; color: grey; font-size:12px;"><i>A graphic violence warning on Atlos.</i></p>
 
 Viewing media depicting graphic violence puts researchers at risk of vicarious trauma. While Atlos takes several steps to protect researchers, no technical solution is comprehensive. If you’re struggling with your mental health, seek out professional help and consider taking a break from open source research.
 

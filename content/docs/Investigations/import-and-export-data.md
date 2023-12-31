@@ -5,6 +5,9 @@ description: Data on Atlos is easily portable.
 
 Data on Atlos is easily portable. Our goal is to support your investigations wherever they might go, not to lock you in.
 
+![A project's export options.](export.png)
+<p style="text-align: center; margin: 0px; color: grey; font-size:12px;"><i>It's easy to export data from Atlos.</i></p>
+
 ## Data import
 Researchers that have accumulated a large amount of data before beginning working on Atlos can import their data into Atlos. However, we recommend keeping your investigation on Atlos whenever possible. Our change-tracking and archival systems can’t be used on data that’s not yet in Atlos—the faster data is added to the platform, the faster we can assure its integrity. 
 
