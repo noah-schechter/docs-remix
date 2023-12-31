@@ -45,7 +45,7 @@ There are five filters available on Atlos. You can use multiple filters at the s
 - **Tags—** Find all incidents of a project that have a certain tag or that don’t have a tag at all. Tags are used to coordinate projects and sort data. Project owners can create new tags as needed.
 - **Sensitivity—** Find all incidents of a project that have a certain Sensitivity value.
 
-## The Queue
-The Queue is a project-level view that organizes incidents by Status. Use it to quickly find a new incident to investigate. 
+## The queue
+The queue is a project-level view that organizes incidents by Status. Use it to quickly find a new incident to investigate. 
 
 To find the queue, navigate to the Projects page and select the relevant project. Then click on the `Queue pane. 

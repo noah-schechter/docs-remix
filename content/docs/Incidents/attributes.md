@@ -9,7 +9,7 @@ weight: 2
 ## Attributes describe incidents
 Attributes are structured data that describe incidents. Attributes make data easily searchable and provide structure for large-scale tagging or data coding projects. Each attribute corresponds to a single column in a spreadsheet-style investigation. 
 
-## How to edit attributes
+## Edit attributes
 {{< callout type="info" >}}
 This section describes how to edit an incident’s data. If you’re looking for a description of data model customization, refer to [How to customize attributes](#how-to-customize-attributes). 
 {{< /callout >}}
@@ -45,7 +45,7 @@ Custom attributes have four components:
 - **Attribute Description—** An optional description of the attribute. We highly recommend including a detailed description of how you expect investigators to use the attribute to avoid confusion. 
 - **Attribute Options—** Attribute options are the potential values for each attribute. Specify each option by typing a value, pressing Enter, and repeating until you’ve listed every option. 
 
-### How to customize attributes
+### Customize attributes
 To customize a project’s data model: 
 1. Navigate to the **Projects** page. 
 2. Select the relevant project. 

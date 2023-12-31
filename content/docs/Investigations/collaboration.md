@@ -7,7 +7,7 @@ Open source investigations thrive in large investigative communities. We think A
 
 ![A project's access page.](collaboration.png)
 
-## How to add a member 
+## Add a member
 To add a member to a project: 
 1. Navigate to the **Projects** page.
 2. Select the relevant project. 
@@ -17,21 +17,21 @@ To add a member to a project:
 
 When adding a new member, choose each collaborator’s role carefully. Members’ roles dictate their editing permissions and data access. You can learn more about roles and permissions below.
 
-## How to remove a member
+## Remove a member
 To remove a member from a project:
 1. Navigate to the **Projects** page.
 2. Select the relevant project. 
 3. Navigate to the **Access** page, which can only be edited by project owners.
 4. Click {{< icon "minus-circle" >}} next to the member who you'd like to remove.
 
-## How to deactivate an invite link
+## Deactivate an invite link
 If an invite link to a project has ended up in the wrong hands, it's easy to deactivate it:
 1. Navigate to the **Projects** page.
 2. Select the relevant project. 
 3. Navigate to the **Access** page, which can only be edited by project owners.
 4. Under the relevant invite link, click {{< icon "minus-circle" >}} to deactive the link.
 
-## How to change an existing member’s role
+## Change an existing member’s role
 To change an existing member's role:
 1. Navigate to the **Projects** page.
 2. Select the relevant project. 

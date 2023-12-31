@@ -61,20 +61,20 @@ To merge media:
    
 Once you’ve verified the media was successfully merged, we recommend changing the Status of the donor incident to Canceled. Atlos will not automatically change the donor incident’s Status. 
 
-## How to hide source material
+## Hide source material
 Atlos offers two options for hiding source material that has been added by accident. All investigators can minimize source material, which moves it to a collapsible section of the Source Material pane. Project owners and managers can also remove source material, which makes it visible only to other project owners and managers. 
 
-### Minimizing source material 
+
+### Minimze source material 
 If you add source material to an incident in error, you can hide the material from view by minimizing it. Atlos won't display minimized source material in the main Source Material pane. It will still be visible under a separate section of the Source Material pane, accessible by clicking the **View minimized media** button.  Minimizing source material impacts its visibility for all members of a project. 
 
-#### How to minimze source material 
 To minimize media on the Source Material pane: 
 1. Click the three dots to the right of the piece of source material. 
 2. Click **Minimize**. 
 
 If you already have a piece of source material's artifacts window open, just click `Minimize` on the left side of the window. 
 
-#### How to unminimize source material
+### Unminimize source material
 If you have minimized source material in error, you can easily restore the material. 
 
 To restore minimized source material:
@@ -84,17 +84,16 @@ To restore minimized source material:
 
 If you already have a piece of source material's aritifacts window open, just click `Unminimze` on the left side of the window.
 
-### Removing source material 
+### Remove source material 
 Project owners and managers can also remove source material. While minimized source material remains accessible (albeit hidden) to all members of a project, source material that has been removed is accessible only to project owners and managers. 
 
-#### How to remove source material 
 To remove media on the Source Material pane:
 1. Click the three dots to the right of the piece of source material.
 2. Click **Remove**.
 
 If you already have a piece of source material's artifacts window open, just click **Remove** on the left side of the window.
 
-#### How to restore removed source material
+### Restore removed source material
 If you have removed source material in error, you can easily restore the material. 
 1. Click **View removed media**. 
 2. Click the three dots to the right of the piece of source material.

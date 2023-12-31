@@ -13,12 +13,12 @@ To subscribe to (or unsubscribe from) any incident, click **Subscribe** (or **Su
 ### Automatic subscriptions
 Atlos automatically subscribes you to an incident if you comment on it or update any of its attributes or metadata. 
 
-### How to view subscriptions
+### View subscriptions
 To view all of your subscriptions:
 1. Navigate to the **Notifications** page.
 2. Click the **View and manage subscriptions** on the right side of the page. 
    
-### How to bulk unsubscribe
+### Bulk unsubscribe
 To unsubscribe from many incidents:
 1. Navigate to the **Notifications** page. 
 2. Click **View and manage subscriptions**.
@@ -26,7 +26,7 @@ To unsubscribe from many incidents:
 
 Incidents that you’ve unsubscribed to on this page will become transparent; once you reload this page they’ll disappear from your list of subscriptions. If you unsubscribe to an incident in error on the **My Subscriptions** page, you can easily undo the change by clicking the **Resubscribe** button in the top-right corner of the incident’s card. 
 
-## Managing notifications 
+## Manage notifications 
 To view your notifications, navigate to the **Notifications** page. 
 
 Here’s what you need to know about managing notifications:

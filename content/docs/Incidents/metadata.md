@@ -38,23 +38,21 @@ Only project owners and managers can add and update tags.
 ## Restrictions 
 Atlos offers several tools for moderating viewing and editing access to individual incidents. We recommend that you use these incident-level tools only when Atlos' project-level access controls are insufficient. Only project owners and managers can edit an incident's restrictions. 
 
-### Freezing
+### Freeze an incident
 Freezing an incident prevents viewers and editors from editing a incident's attributes, metadata, and source material. Project managers and owners can still edit a frozen incident's data.
 
 {{< callout type="info" >}}
 We encourage you not to use this restriction to seal data when an investigation is completed (as a replacement for marking incidents as [Complete](/docs/metadata#status)). Use Frozen as an emergency moderation tool in extreme cases, not as a standard part of your workflow.
 {{< /callout >}}
 
-#### How to freeze an incident
 To freeze an incident, project managers and owners can:
 1. Click the **Update** button in the **Restrictions** row of the incident's **Metadata** pane. 
 2. Add the Frozen restriction. 
 3. Click **Post update**.
 
-### Hiding
+### Hide an incident
 Hiding an incident prevents viewers and editors from viewing an incident. Hidden incidents will not appear in viewers' and editors' searches, homepages, notifications, or exports. Project managers and owners will still be able to view hidden incidents in their searches, homepages, notifications, and exports. 
 
-#### How to hide an incident
 To hide an incident, project managers and owners can:
 1. Click the **Update** button in the **Restrictions** row of the incident's **Metadata** pane. 
 2. Add the Hidden restriction. 

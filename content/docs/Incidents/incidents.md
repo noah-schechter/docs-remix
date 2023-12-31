@@ -34,9 +34,9 @@ Each incident has a dedicated page with four main components:
 ## Incidents are part of projects 
 Every incident belongs to a [project](/investigations/projects). To prevent data loss, Atlos doesn’t permit investigators to change an incident’s project. Instead, we enable researchers to [copy](/investigations/projects#how-to-copy-an-incident-to-a-second-project) an incident into a second project. 
 
-## How to create an incident 
+## Create an incident 
 To create an incident:
-1. On the left sidebar menu, click **New**.
+1. On the left sidebar menu, click {{< icon "plus" >}}. Alternatively, press `Ctrl` + `I`. 
 2. Select the incident's project. The incident's project can't be changed once you have created the incident.  
 3. Add the incident's description.*
 4. Select the incident's sensitivity.*
@@ -46,7 +46,7 @@ To create an incident:
    
 *This information can be edited after the incident is created.
 
-## How to delete an incident
+## Delete an incident
 To protect data integrity, Atlos makes removing content from the platform impossible. Instead, deleting an incident moves the incident from the main catalog to the Deleted page of its project. Deleted incidents do not appear in search results or exports but will remain visible by project owners and managers on the Deleted page of each project. 
 
 To delete an incident, project owners and managers can: 
@@ -54,7 +54,7 @@ To delete an incident, project owners and managers can:
 2. Click **Delete**.
 
 
-## How to restore an incident
+## Restore a deleted incident
 Deleted incidents can be restored. To restore an incident, project owners and managers can:
 1. On the top-right corner of the deleted incident's page, click the three vertical dots.
 2. Click **Restore**.
