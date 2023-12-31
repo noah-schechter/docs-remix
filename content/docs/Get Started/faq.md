@@ -1,6 +1,6 @@
 ---
 title: FAQ
-weight: 3
+weight: 4
 ---
 
 ## Can I export my data from Atlos?
