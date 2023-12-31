@@ -46,6 +46,9 @@ There are five filters available on Atlos. You can use multiple filters at the s
 - **Sensitivity—** Find all incidents of a project that have a certain Sensitivity value.
 
 ## The queue
-The queue is a project-level view that organizes incidents by Status. Use it to quickly find a new incident to investigate. 
+The queue is a project-level view that organizes incidents by status. Use it to quickly find a new incident to investigate. 
 
-To find the queue, navigate to the Projects page and select the relevant project. Then click on the `Queue pane. 
+To find the queue:
+1. Navigate to the **Projects** page. 
+2. Select the relevant project. 
+3. Then click on the **Queue** pane. 
