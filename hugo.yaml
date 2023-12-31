@@ -10,8 +10,6 @@ module:
   imports:
   - path: github.com/imfing/hextra
 
-
-
 markup:
   # allow raw html
   goldmark:
@@ -28,6 +26,9 @@ menu:
       weight: 5
       params:
         type: search
+    - name: Get Help on Discord Now ↗
+      url: "https://discord.gg/gqCcHc9Gav"
+      weight: 3
 
 params:
   navbar:
@@ -41,7 +42,7 @@ params:
       width: 60
 
   footer:
-    displayCopyright: false
+    displayCopyright: true
     displayPoweredBy: false
     width: normal
 
