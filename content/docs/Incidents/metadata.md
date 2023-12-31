@@ -4,6 +4,8 @@ description: Metadata is used for coordinating workflows on Atlos.
 weight: 4
 ---
 
+![The metadata pane.](metadata1.png?width=200px)
+
 Investigators use metadata to coordinate workflow on Atlos. There are five components to metadata:
 
 ## Status 

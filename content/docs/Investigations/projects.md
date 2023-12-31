@@ -1,11 +1,14 @@
 ---
 title: Projects
 description: Projects are the unit of investigations on Atlos.
+weight: 1
 ---
 
 Projects are the unit of investigations on Atlos. They’re also the level at which investigators can: 
 - **Collaborate—** Project owners can easily invite other investigators to collaborate on their projects. Data on Atlos is shareable only at the project level; individual incidents cannot be shared. 
 - **Customize attributes—** Investigators can easily change a project’s attributes to better suit their research. Attributes are customizable only at the project level; all incidents in a project have the same data model.
+
+![A project's manage page.](projects.png)
 
 ## How to create a new project 
 1. Navigate to the Projects tab.

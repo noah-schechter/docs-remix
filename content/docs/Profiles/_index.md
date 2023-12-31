@@ -8,6 +8,6 @@ sidebar:
 The profiles section explains features related to your account, notifications, and subscriptions:
 
 {{< cards >}} 
-{{< card link="account" title="Account" icon="bolt" >}} 
-{{< card link="notifications" title="Notifications" icon="map-pin" >}} 
+{{< card link="account" title="Account" icon="user" >}} 
+{{< card link="notifications" title="Notifications" icon="bell" >}} 
 {{< /cards >}}

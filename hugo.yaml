@@ -1,11 +1,16 @@
 # Hugo configuration file
-title: About Atlos
-logo: 
+title: Help Center
+
+
+contentDir: content/docs
+enableInlineShortcodes: true
 
 # import hextra as module
 module:
   imports:
   - path: github.com/imfing/hextra
+
+
 
 markup:
   # allow raw html
@@ -19,13 +24,6 @@ markup:
 
 menu:
   main:
-    - name: Help Center
-      pageRef: /docs
-      weight: 1
-      weight: 3
-    - name: Blog
-      url: /blog
-      weight: 4
     - name: Search
       weight: 5
       params:
@@ -33,12 +31,16 @@ menu:
 
 params:
   navbar:
-    displayTitle: true
+    
     displayLogo: true
+    logo: 
+      path: Logo.png
+      link: /
+      width: 60
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
 
   editURL:
     enable: true

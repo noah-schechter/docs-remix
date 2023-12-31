@@ -4,7 +4,17 @@ description: A guide to the account page.
 ---
 
 ## Profile 
-Your profile is visible to all Atlos users. It includes your username, profile photo, bio, a list of the projects of which you’re a member, and a feed of your recent updates. Investigators on Atlos will only be able to see updates and projects on your profile that they would otherwise have access to—if someone is not a member of a project, they won’t see your update to an incident in that project just because they navigated to your profile page. 
+Your profile is visible to all Atlos users. It includes:
+- Your username
+- Your profile photo
+- Your bio
+- A list of the projects of which you’re a member
+- A feed of your recent updates
+- A list of the incidents to which you're assigned
+- A list of the incidents to which you've subscribed
+- A list of the incidents you've recently edited
+
+Note that investigators on Atlos will only be able to see updates and projects on your profile that they would otherwise have access to—if someone is not a member of a project, they won’t see your update to an incident in that project just because they navigated to your profile page. 
 
 ### Edit your profile 
 To edit your bio or profile image:
@@ -13,11 +23,6 @@ To edit your bio or profile image:
 3. Press **Save** after making changes to your profile. 
 
 To edit your username or email address, please email the Atlos team at contact@atlos.org. 
-
-### View your profile
-To view your profile: 
-1. Navigate to the **Account** page by clicking **Account** on the left sidebar menu. 
-2. Press **View my profile and activity** on the **Profile** pane. 
 
 ## Password reset
 ### Change password
