@@ -41,7 +41,7 @@ params:
       width: 60
 
   footer:
-    displayCopyright: true
+    displayCopyright: false
     displayPoweredBy: false
     width: normal
 
