@@ -9,7 +9,7 @@ sidebar:
 
 Atlos offers a project-scoped API to help investigators integrate with third-party services like mapping and archival applications.
 
-The Atlos API allows you to connect your project to external services. You can learn more about the API authentication scheme and endpoints below. API tokens are only accessible to project owners.
+You can learn more about the API authentication scheme and endpoints below. API tokens are only accessible to project owners.
 
 Please note that the API is in beta and not all operations are necessarily supported; if you need something, please get in touch at [contact@atlos.org](mailto:contact@atlos.org).
 
