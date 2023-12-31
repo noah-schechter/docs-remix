@@ -1,6 +1,6 @@
 # Hugo configuration file
 title: Help Center
-
+page:
 
 contentDir: content/docs
 enableInlineShortcodes: true
@@ -31,16 +31,19 @@ menu:
 
 params:
   navbar:
+    width: normal
     
     displayLogo: true
     logo: 
       path: Logo.png
+      dark: Logodark.png
       link: /
       width: 60
 
   footer:
-    displayCopyright: false
+    displayCopyright: true
     displayPoweredBy: false
+    width: normal
 
   editURL:
     enable: true
