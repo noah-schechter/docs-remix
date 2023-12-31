@@ -3,6 +3,7 @@ title: Investigations
 type: docs
 sidebar:
   open: true
+weight: 3
 ---
 
 Projects are the unit of investigations on Atlos. This section explains how to collaborate with teammates, how to import and export your data, how to customize your data model, and how to search and filter data.

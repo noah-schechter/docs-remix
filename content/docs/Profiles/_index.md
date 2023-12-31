@@ -3,6 +3,7 @@ title: Profiles
 type: docs
 sidebar:
   open: true
+weight: 5
 ---
 
 The profiles section explains features related to your account, notifications, and subscriptions:

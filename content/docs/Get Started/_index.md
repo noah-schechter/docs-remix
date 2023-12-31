@@ -3,6 +3,7 @@ title: Get started
 type: docs
 sidebar:
   open: true
+weight: 1
 ---
 
 Welcome to Atlos! In this section, we answer the question "What is Atlos?" and many more:

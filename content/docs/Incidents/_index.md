@@ -3,6 +3,7 @@ title: Incidents
 type: docs
 sidebar:
   open: true
+weight: 2
 ---
 
 Incidents are the basic unit of content on Atlos. They depict specific events and contain one or more pieces of source material. Learn more about:
