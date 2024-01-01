@@ -16,10 +16,10 @@ Atlos is a solution to a process problem: general-purpose tools like spreadsheet
 
 ## What we do
 Atlos is purpose-built to visual investigators’ workflows. We aim to solve each of the challenges spreadsheets pose for visual investigators:
-1.  **Integrity—** Atlos [tracks every change](/incidents/comments-and-the-feed#change-tracking) to the underlying data, so investigators have a clear record of the investigative process. 
-2. **Visual content—** Atlos [automatically archives](/incidents/source-material#automatic-archival) photos and videos, tweets and TikToks, and even entire webpages. We display this content directly within the platform, so investigators can easily refer to their evidence.
-3.  **Researcher safety—** Atlos makes it easy to warn collaborators that content media contains [graphic or disturbing content](/incidents/metadata#sensitivity). We also follow industry safety best practices, including by displaying all content in grayscale by default. 
-4. **Collaboration—** We’ve baked in key project-management tools right into the platform. While Atlos workspaces are private by default, [sharing](/investigations/collaboration#how-to-add-a-member) a project is just as easy as sending a Google Doc: Investigators simply add a collaborator’s username and choose from several fine-grained permission levels.
+1.  **Integrity—** Atlos [tracks every change](/incidents/comments-and-the-feed/#change-tracking) to the underlying data, so investigators have a clear record of the investigative process. 
+2. **Visual content—** Atlos [automatically archives](/incidents/source-material/#automatic-archival) photos and videos, tweets and TikToks, and even entire webpages. We display this content directly within the platform, so investigators can easily refer to their evidence.
+3.  **Researcher safety—** Atlos makes it easy to warn collaborators that content media contains [graphic or disturbing content](/incidents/metadata/#sensitivity). We also follow industry safety best practices, including by displaying all content in grayscale by default. 
+4. **Collaboration—** We’ve baked in key project-management tools right into the platform. While Atlos workspaces are private by default, [sharing](/investigations/collaboration/#how-to-add-a-member) a project is just as easy as sending a Google Doc: Investigators simply add a collaborator’s username and choose from several fine-grained permission levels.
 
 ## What we don't do
 We think Atlos is a powerful tool for large teams conducting ambitious visual investigations. We also know Atlos isn’t for everyone. For many investigative workflows, there are better tools than Atlos. Atlos is not a tool for:

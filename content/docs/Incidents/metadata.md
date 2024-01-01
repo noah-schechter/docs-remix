@@ -4,7 +4,7 @@ description: Metadata is used for coordinating workflows on Atlos.
 weight: 4
 ---
 
-![The metadata pane.](metadata1.png?width=200px)
+![The metadata pane.](metadata1.png)
 <p style="text-align: center; margin: 0px; color: grey; font-size:12px;"><i>The metadata pane of an incident.</i></p>
 
 
@@ -44,7 +44,7 @@ Atlos offers several tools for moderating viewing and editing access to individu
 Freezing an incident prevents viewers and editors from editing a incident's attributes, metadata, and source material. Project managers and owners can still edit a frozen incident's data.
 
 {{< callout type="info" >}}
-We encourage you not to use this restriction to seal data when an investigation is completed (as a replacement for marking incidents as [Complete](/incidents/metadata#status)). Use Frozen as an emergency moderation tool in extreme cases, not as a standard part of your workflow.
+We encourage you not to use this restriction to seal data when an investigation is completed (as a replacement for marking incidents as [Complete](/incidents/metadata/#status)). Use Frozen as an emergency moderation tool in extreme cases, not as a standard part of your workflow.
 {{< /callout >}}
 
 To freeze an incident, project managers and owners can:

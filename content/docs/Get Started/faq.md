@@ -4,16 +4,16 @@ weight: 4
 ---
 
 ## Can I export my data from Atlos?
-Yes—it's easy to export your entire Atlos catalog into a CSV at the click of a button. [Learn more](/investigations/import-and-export-data#how-to-export-data) about exporting your data.
+Yes—it's easy to export your entire Atlos catalog into a CSV at the click of a button. [Learn more](/investigations/import-and-export-data/#how-to-export-data) about exporting your data.
 
 ## Can I import a spreadsheet?
-Yes. You can upload a CSV to add many incidents at the same time. [Learn more](/investigations/import-and-export-data#how-to-import-data) about bulk importing data.  
+Yes. You can upload a CSV to add many incidents at the same time. [Learn more](/investigations/import-and-export-data/#how-to-import-data) about bulk importing data.  
 
 ## How should I define an incident? 
 Incidents are the core unit of content on Atlos. They refer to specific events that are depicted by one or more pieces of source material. There's no one way to define an incident in your investigation. [Learn more](/incidents/incidents/#incidents-are-the-atoms-of-atlos) about how to scope incidents. 
 
 ## Is Atlos safe for my investigation?
-It depends. We take safety incredibly seriously and recently underwent an independent security audit conducted by NCC Group. But like all digital tools, using Atlos also carries risk. There's no short answer to this question, so we've dedicated an entire section of the Help Center to our [security and risk model](/safety-and-security/risk-model). 
+It depends. We take safety incredibly seriously and recently underwent an independent security audit conducted by NCC Group. But like all digital tools, using Atlos also carries risk. There's no short answer to this question, so we've dedicated an entire section of the Help Center to our [security and risk model](/safety-and-security/risk-model/). 
 
 ## What infrastructure does Atlos use? 
 ### Hosting

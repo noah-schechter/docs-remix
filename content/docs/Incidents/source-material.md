@@ -82,7 +82,7 @@ To restore minimized source material:
 2. Click the three dots to the right of the piece of source material. 
 3. Click **Unminimize**. 
 
-If you already have a piece of source material's aritifacts window open, just click `Unminimze` on the left side of the window.
+If you already have a piece of source material's aritifacts window open, just click **Unminimze** on the left side of the window.
 
 ### Remove source material 
 Project owners and managers can also remove source material. While minimized source material remains accessible (albeit hidden) to all members of a project, source material that has been removed is accessible only to project owners and managers. 

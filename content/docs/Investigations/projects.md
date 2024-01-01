@@ -26,7 +26,7 @@ Every incident on Atlos has a unique ID. Incident IDs include both a project cod
 ## Edit project data
 To edit your existing project's data, navigate to its Manage pane. Project owners and managers can change projects’ names, codes, and descriptions at any time, but we recommend settling on descriptive information at the beginning of an investigation to avoid confusing collaborators. 
 
-Read [here](/incidents/attributes#how-to-customize-attributes) for more information on customizing a project's attributes. 
+Read [here](/incidents/attributes/#how-to-customize-attributes) for more information on customizing a project's attributes. 
 [VIDEO]
 
 ## Copy an incident to a second project 
