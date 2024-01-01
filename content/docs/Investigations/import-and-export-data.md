@@ -19,7 +19,7 @@ To import data:
 4. Click **Upload a file**. 
 5. Click **Publish to Atlos** once Atlos has processed your CSV. 
 
-See the [formatting](/projects/import-and-export-data#formatting-for-bulk-import) section below for a full explanation of acceptable CSV formats. Note that bulk import is accessible only to project owners and managers. 
+See the [formatting](/investigations/import-and-export-data#formatting-for-bulk-import) section below for a full explanation of acceptable CSV formats. Note that bulk import is accessible only to project owners and managers. 
 
 ### What is a CSV? 
 Atlos uses CSVs to make the platform compatible with all spreadsheet software. CSVs standardize spreadsheet data as values separated by commas. 

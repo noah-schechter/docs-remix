@@ -6,7 +6,7 @@ weight: 3
 
 Source material is the evidence depicting an incident. Each incident can have zero, one, or multiple pieces of source material. 
 
-![An image of source material on Atlos.](sourcematerial.png?width=100)
+![An image of source material on Atlos.](sourcematerial.png)
 <p style="text-align: center; margin: 0px; color: grey; font-size:12px;"><i>Source material automatically archived on Atlos.</i></p>
 
 Source material takes two forms on Atlos: file uploads and archived links.

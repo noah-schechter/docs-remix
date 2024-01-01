@@ -46,6 +46,4 @@ params:
     displayPoweredBy: false
     width: normal
 
-  editURL:
-    enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+  
