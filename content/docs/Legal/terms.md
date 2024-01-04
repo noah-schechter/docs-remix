@@ -175,7 +175,7 @@ The failure by us to enforce any right or provision of these Terms will not prev
 We may assign our rights and obligations under these Terms, including in connection with a merger, acquisition, sale of assets or equity, or by operation of law.
 
 ## 19. Changes to these Terms
-From time to time, we may change these Terms or other policies incorporated in these Terms, like our [Privacy Policy](https://github.com/atlosdotorg/atlos/blob/main/policy/PRIVACY_POLICY.md)).  If we change these Terms, we will give you notice by posting the revised Terms on the Site and notifying you within the Atlos platform.  Those changes will go into effect on the Revision Date shown in the revised Terms.  By continuing to use the Services after the revised Terms are posted on the Site, or by visiting, interacting with, or purchasing from us in any of our stores or elsewhere after we have sent you written notice of the revised Terms, you are agreeing to the revised Terms. 
+From time to time, we may change these Terms or other policies incorporated in these Terms, like our [Privacy Policy](/legal/privacy-policy/).  If we change these Terms, we will give you notice by posting the revised Terms on the Site and notifying you within the Atlos platform.  Those changes will go into effect on the Revision Date shown in the revised Terms.  By continuing to use the Services after the revised Terms are posted on the Site, or by visiting, interacting with, or purchasing from us in any of our stores or elsewhere after we have sent you written notice of the revised Terms, you are agreeing to the revised Terms. 
 
 ## Thank You!
 We appreciate your taking the time to read these Terms of Use, and we are very happy to have you using Atlos.
