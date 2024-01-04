@@ -10,21 +10,25 @@ sidebar:
 Atlos is a platform for open-source visual investigations. And while Atlos often makes visual investigations safer and more secure—for example, by enforcing access controls and by limiting exposure to graphic media—using Atlos also carries risks. Here are some key things to keep in mind as you use Atlos:
 
 - **No online platform is 100% secure, and Atlos isn’t an exception.** If the exposure of your data could lead to significant harm, don’t use Atlos.\
-    *We recommend against using Atlos for closed source investigations (i.e., investigations where the source material isn’t publicly available online).*
+    {{< callout type="warning" >}}
+  We recommend against using Atlos for closed source investigations (i.e., investigations where the source material isn’t publicly available online).
+{{< /callout >}}
 
 
-- **If legally required, we will have to disclose your data.** If there is a legal requirement for us to share data with a government or law enforcement agency with appropriate jurisdiction, we will have no choice but to comply.\
-    *If you are concerned about protecting your identity from law enforcement, protect your identity from us (e.g., employ a VPN and pseudonym when using Atlos).*
+- **If legally required, we will have to disclose your data.** If there is a legal requirement for us to share data with a government or law enforcement agency with appropriate jurisdiction, we will have no choice but to comply.
+    {{< callout type="warning" >}}
+  If you are concerned about protecting your identity from law enforcement, protect your identity from us (e.g., employ a VPN and pseudonym when using Atlos).
+{{< /callout >}}
 
 
-- **Our automatic archival isn’t perfect.** When you add a link to an incident’s source material, Atlos will attempt to archive the page—and any media on that page—automatically. While generally robust, our archival system has limitations, and it’s not meant for evidentiary or forensic purposes. For example, our archival system can’t archive pages that require authentication (e.g., private Telegram links); it may miss media on certain pages; and it might sometimes break.\
-    _If you plan to use Atlos for evidentiary purposes—or require “forensic” archival—you should independently archive your source material._ 
+- **Our automatic archival isn’t perfect.** When you add a link to an incident’s source material, Atlos will attempt to archive the page—and any media on that page—automatically. While generally robust, our archival system has limitations, and it’s not meant for evidentiary or forensic purposes. For example, our archival system can’t archive pages that require authentication (e.g., private Telegram links); it may miss media on certain pages; and it might sometimes break.
+    {{< callout type="warning" >}}If you plan to use Atlos for evidentiary purposes—or require “forensic” archival—you should independently archive your source material.{{< /callout >}}
 
-- **Be mindful of your mental health.** Visual investigations can lead to vicarious trauma, especially when graphic media is involved. Atlos takes several steps to minimize the psychological impact of this content, but these techniques aren’t foolproof.\
-    _Know your limits. Take breaks. Give yourself—and your team—space._ 
+- **Be mindful of your mental health.** Visual investigations can lead to vicarious trauma, especially when graphic media is involved. Atlos takes several steps to minimize the psychological impact of this content, but these techniques aren’t foolproof.
+    {{< callout type="warning" >}}Know your limits. Take breaks. Give yourself—and your team—space.{{< /callout >}}
 
-- **Nothing is forever.** While we plan to support the Atlos platform far into the future, it is possible that circumstances will change and the platform will shut down. If Atlos does shut down, it will almost certainly be after a long sunsetting period, and we will work with you to migrate your workflow elsewhere (e.g., to a self-hosted version of Atlos).\
-    _We strongly recommend periodically exporting your data from the Atlos platform and backing it up elsewhere._
+- **Nothing is forever.** While we plan to support the Atlos platform far into the future, it is possible that circumstances will change and the platform will shut down. If Atlos does shut down, it will almost certainly be after a long sunsetting period, and we will work with you to migrate your workflow elsewhere (e.g., to a self-hosted version of Atlos).
+    {{< callout type="warning" >}}We strongly recommend periodically exporting your data from the Atlos platform and backing it up elsewhere.{{< /callout >}}
 
 The remainder of this page details our threat model. If you have any questions, please contact us at [contact@atlos.org](mailto:contact@atlos.org).
 
@@ -57,11 +61,11 @@ We take several steps to protect the confidentiality, availability, and integrit
 - To protect the availability of user and investigation data, we take regular backups in two ways (note that these backups are stored in an immutable form on AWS S3):
   - Continuous [“WAL” style](https://www.postgresql.org/docs/current/continuous-archiving.html) PostgreSQL backups— these backups capture changes to our data as they happen, and allow us to restore Atlos to any five-minute interval. We currently store these backups for at least seven years.
   - Full logical backups every six hours— we automatically generate a full logical backup of our database every six hours, which is stored in an Amazon AWS bucket. These backups are encrypted to a public key using [age encryption](https://github.com/FiloSottile/age); only Miles McCain and Noah Schechter (the Atlos co-founders) have access to the corresponding private key.
-- To protect the integrity of user and investigation data, we conduct robust audit logging of all major, data-changing events in the application. These audit logs are retained for 90 days and are stored in Slack (see [Usage information](/safety-and-security/risk-model#usage-information) below). However, an adversary who has achieved remote code execution ability on our web application would be able to bypass this audit logging system. (They would not, however, be able to retroactively edit our backups, thus making their changes to our data hypothetically detectable.)
+- To protect the integrity of user and investigation data, we conduct robust audit logging of all major, data-changing events in the application. These audit logs are retained for 90 days and are stored in Slack (see [Usage information](/safety-and-security/risk-model/#usage-information) below). However, an adversary who has achieved remote code execution ability on our web application would be able to bypass this audit logging system. (They would not, however, be able to retroactively edit our backups, thus making their changes to our data hypothetically detectable.)
 
 To protect against account compromise, we encourage two-factor authentication for all users, as well as send an email notification to users whenever there is a login to their account.
 
-To protect against harms posed by a malicious user who is part of a project, we limit the total number of truly destructive actions that users can take on Atlos. For example, there is no way to irreversibly delete data on Atlos; incidents can be marked as deleted, but they will still be accessible to project owners (e.g., in the “Deleted” tab on the project page, which is accessible to project owners and managers). Note that the inability to truly delete Atlos data presents its own risks and challenges, which are explored below in [Researcher safety](/docs/security-and-risk-model#researcher-safety).
+To protect against harms posed by a malicious user who is part of a project, we limit the total number of truly destructive actions that users can take on Atlos. For example, there is no way to irreversibly delete data on Atlos; incidents can be marked as deleted, but they will still be accessible to project owners (e.g., in the “Deleted” tab on the project page, which is accessible to project owners and managers). Note that the inability to truly delete Atlos data presents its own risks and challenges, which are explored below in [Researcher safety](/safety-and-security/risk-model/#researcher-safety).
 
 #### How can our users address this risk?
 The responsibility to protect the confidentiality, availability, and integrity of Atlos data primarily rests with ourselves. But our users can take several steps to protect their data security as well:
