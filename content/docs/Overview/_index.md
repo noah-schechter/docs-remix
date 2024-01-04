@@ -1,5 +1,5 @@
 ---
-title: Get started
+title: Overview
 type: docs
 sidebar:
   open: true

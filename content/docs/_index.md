@@ -1,5 +1,5 @@
 ---
-title: Help Center
+title: Docs
 description: A guide to getting just about anything done on Atlos, the collaborative workspace for visual verification.
 cascade: 
     type: docs
@@ -7,7 +7,7 @@ cascade:
 ![The Atlos map.](map.png)
 
 {{< cards >}} 
-{{< card link="get-started/" title="Get started" icon="bolt" >}} 
+{{< card link="overview/" title="Overview" icon="bolt" >}} 
 {{< card link="incidents/" title="Incidents" icon="map-pin" >}} 
 {{< card link="investigations/" title="Investigations" icon="squares-2x2" >}} 
 {{< card link="profiles/" title="Profiles" icon="user" >}} 
