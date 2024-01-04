@@ -35,7 +35,7 @@ The remainder of this page details our threat model. If you have any questions, 
 ## Data security
 We take the security of data on Atlos very seriously. At a high level, Atlos collects four types of data: user and investigation data, source material, and usage data. This section will lay out how we protect the confidentiality, integrity, and availability of these four categories of data.
 
-Note that Atlos recently underwent an independent security audit.
+Note that Atlos underwent an independent security audit in summer 2023.
 
 Note that **we would be required to honor valid legal information requests** (e.g., subpoenas and other court orders) for authorities with jurisdiction over us. Atlos is based out of California in the United States. Assume that this caveat applies to all the types of information listed below, even if not explicitly mentioned.
 
