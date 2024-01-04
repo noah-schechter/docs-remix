@@ -63,7 +63,7 @@ We think Atlos is a great tool for collaboration at scale, but it's not the best
 - **CSV export—** Anyone on Atlos can export the results of any search to a CSV.
 - **Full project export—** Project owners and managers can export all project data, including media, changelogs of each incidents, and more. 
 
-### How to export data to a CSV
+### Export data to a CSV
 To export all of a project’s data:
 1. Navigate to **Projects** page.
 2. Navigate to the **Manage** page of the project whose data you wish to export. 
@@ -71,10 +71,10 @@ To export all of a project’s data:
 
 To export the results of any search to a CSV, click {{< icon "download" >}} in the search bar. 
 
-### How to export all project data
+### Export all project data
 Not all of a project's data is captured in a CSV. To export all project data—including media, metadata, the project's data model, and updates to each incident:
 1. Navigate to **Projects** page.
 2. Navigate to the **Manage** page of the project whose data you wish to export. 
 3. In the **Export** section, click **All Data and Media (ZIP)**. 
 
-Note that full exports are slow, may be gigabytes in size, and expensive for us to run. We recommend you only begin a full export when absolutely necessary.
+Note that full exports are slow, may be gigabytes in size, and are expensive for us to run. We recommend you only begin a full export when absolutely necessary.
