@@ -17,5 +17,5 @@ We recommend reading ["Open Source Investigations: How to Prevent, Address and I
 Atlos implements several industry best practices by default:
 - Atlos mutes all videos by default, because researchers [find](http://eyewitnessmediahub.com/research/vicarious-trauma/findings/what-makes-eyewitness-media-traumatic-) that the audio of graphic media is often more disturbing than the video.
 - Atlos makes all media grayscale by default, because black-and-white photos and videos have a [smaller](https://ojs.aaai.org/index.php/HCOMP/article/view/5270/5122) psychological impact than color media.
-- Atlos helps reduce surprise exposures with a “Graphic Violence” warning, because media can be [especially impactful](http://eyewitnessmediahub.com/research/vicarious-trauma/findings/what-makes-eyewitness-media-traumatic-) when researchers aren’t expecting to be exposed to something disturbing.
-- Atlos doesn’t display thumbnails or previews for graphic media, so researchers must choose to view graphic content. 
+- Atlos helps reduce surprise exposures with a “Graphic Violence” warning when investigators have marked source material as graphic, because media can be [especially impactful](http://eyewitnessmediahub.com/research/vicarious-trauma/findings/what-makes-eyewitness-media-traumatic-) when researchers aren’t expecting to be exposed to something disturbing.
+- Atlos doesn’t display thumbnails or previews for media marked as graphic, so researchers must choose to view graphic content. 
