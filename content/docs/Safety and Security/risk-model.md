@@ -169,7 +169,7 @@ Atlos’ archival system is **not “forensic”**, and should not be used for l
 Atlos addresses the risk of archival failure and inconsistency by:
 - continuously monitoring the archival system for failures (which we attempt to promptly address);
 - clearly communicating failures in the interface;
-- using the Internet Archive’s Wayback Machine as a second independent archival layer (note that this means that source material added to Atlos will be available publicly in the Internet Archive);
+- optionally using the Internet Archive’s Wayback Machine as a second independent archival layer (note that if Internet Archive archival is enabled on a project, source material added to Atlos will be available publicly in the Internet Archive);
 - noting the limitations of Atlos’ archival system in the interface itself (“Atlos provides best-effort archival. Archives may be incomplete or missing, and should not be relied on for legal evidence.”); and
 - relying on existing, well-maintained archival and analysis tools—such as Bellingcat’s [auto-archiver](https://github.com/bellingcat/auto-archiver), [yt-dlp](https://github.com/yt-dlp/yt-dlp), [Selenium](https://www.selenium.dev/), and Thorn’s [perception](https://perception.thorn.engineering/)—to power core functionality.
   
