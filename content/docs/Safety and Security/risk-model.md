@@ -21,7 +21,7 @@ Atlos is a platform for open-source visual investigations. And while Atlos often
 {{< /callout >}}
 
 
-- **Our automatic archival isn’t perfect.** When you add a link to an incident’s source material, Atlos will attempt to archive the page—and any media on that page—automatically. While generally robust, our archival system has limitations, and it’s not meant for evidentiary or forensic purposes. For example, our archival system can’t archive pages that require authentication (e.g., private Telegram links); it may miss media on certain pages; and it might sometimes break.
+- **Our automatic archival isn’t perfect.** When you add a link to an incident’s source material, Atlos will attempt to archive the page—and any media on that page—automatically. While generally robust, our archival system has limitations, and it’s not meant for evidentiary or forensic purposes. For example, our archival system can’t archive pages that require authentication (e.g., private Telegram links), it may miss media on certain pages, and it might sometimes break.
     {{< callout type="warning" >}}If you plan to use Atlos for evidentiary purposes—or require “forensic” archival—you should independently archive your source material.{{< /callout >}}
 
 - **Be mindful of your mental health.** Visual investigations can lead to vicarious trauma, especially when graphic media is involved. Atlos takes several steps to minimize the psychological impact of this content, but these techniques aren’t foolproof.
