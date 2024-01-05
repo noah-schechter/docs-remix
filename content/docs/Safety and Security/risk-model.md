@@ -178,8 +178,8 @@ Our users can address the risk of archival failure and inconsistency by suppleme
 
 ## Platform longevity
 Atlos is a small non-profit organization. We don’t plan on disappearing any time soon. But we also recognize that times change and projects can come to an end — whether we like it or not.
-- If we do make the difficult decision to shut down Atlos, we commit to providing all our users with at least six months of notice to export their data and migrate to another platform. (Note that Atlos is an open source project, so there will always be an opportunity for our users to host Atlos themselves.) We will do everything in our power to support a smooth transition off Atlos.
-- In the case that the Atlos team is incapacitated (or dies), contingency plans have been made with trusted partners to gracefully wind down the project and ensure data is available to our users. Put bluntly: if we die, we’ve made plans for someone to gracefully shut Atlos down.
+
+If we do make the difficult decision to shut down Atlos, we commit to providing all our users with at least six months of notice to export their data and migrate to another platform. (Note that Atlos is an open source project, so there will always be an opportunity for our users to host Atlos themselves.) We will do everything in our power to support a smooth transition off Atlos.
 
 ## Conclusion
 We take security and safety incredibly seriously—but, like any digital platform, using Atlos carries risk. We hope that this document helps you better understand Atlos’ threat model.
